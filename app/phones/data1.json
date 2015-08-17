@@ -1,0 +1,12 @@
+[
+   {"name": "SmartGlass", "freq": 70},
+   {"name": "MachineLearning", "freq": 65},
+   {"name": "Wearables", "freq": 60},
+   {"name": "ImageRecognition", "freq": 55},
+   {"name": "GestureRecognition", "freq": 50},
+    {"name": "Gamification","freq":45},
+   {"name": "Drones","freq":40},
+   {"name": "BehaviourAnalytics","freq":35},
+   {"name": "SocialMobile","freq":30},
+   {"name": "BeyondThePill","freq":25}
+]

@@ -1,0 +1,31 @@
+{
+  "nodes":[
+    {"name":"Myriel","group":1,"size":5},
+    {"name":"Napoleon","group":1,"size":4},
+    {"name":"Mlle.Baptistine","group":1,"size":3},
+    {"name":"Mme.Magloire","group":1,"size":2},
+    {"name":"CountessdeLo","group":1,"size":1},
+    {"name":"Geborand","group":1,"size":"1"},
+    {"name":"Champtercier","group":1,"size":2},
+    {"name":"Cravatte","group":1,"size":3},
+    {"name":"Count","group":1,"size":4},
+    {"name":"OldMan","group":1,"size":5}
+    ],
+  "links":[
+    {"source":1,"target":0,"value":1,"distance": 40},
+    {"source":2,"target":0,"value":8,"distance": 30},
+    {"source":3,"target":0,"value":10,"distance": 20},
+    {"source":3,"target":2,"value":6,"distance": 10},
+    {"source":4,"target":0,"value":1,"distance": 50},
+    {"source":5,"target":0,"value":1,"distance": 60},
+    {"source":6,"target":0,"value":1,"distance": 70},
+    {"source":7,"target":0,"value":1,"distance": 80},
+    {"source":8,"target":0,"value":2,"distance": 70},
+    {"source":9,"target":0,"value":1,"distance": 60},
+    {"source":11,"target":10,"value":1,"distance": 50},
+    {"source":11,"target":3,"value":3,"distance": 40},
+    {"source":11,"target":2,"value":3,"distance": 30},
+    {"source":11,"target":0,"value":5,"distance": 20},
+    {"source":12,"target":11,"value":1,"distance": 10}
+    ]
+}

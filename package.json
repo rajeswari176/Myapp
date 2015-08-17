@@ -1,0 +1,16 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "name": "Ecafe",
+  "description": "Einstien's cafe application",
+  "devDependencies": {
+    
+    "http-server": "^0.6.1"
+  
+  },
+  "scripts": {
+   
+    "prestart": "npm install",
+    "start": "http-server -a 54.40.19.8 -p 8080"
+  }
+}

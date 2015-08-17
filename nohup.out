@@ -1,0 +1,10 @@
+
+> Ecafe@0.0.0 prestart /home/ubuntu/Ecafe
+> npm install
+
+
+> Ecafe@0.0.0 start /home/ubuntu/Ecafe
+> http-server -a 54.40.19.8 -p 8080
+
+[33mStarting up http-server, serving [39m[36m./[39m[33m on port: [39m[36m8080[39m
+Hit CTRL-C to stop the server

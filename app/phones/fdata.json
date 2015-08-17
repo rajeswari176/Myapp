@@ -1,0 +1,26 @@
+{
+  "nodes":[
+    {"name":"Myriel","group":1,"size":34, "imageUrl": "img/phones/profpic1.jpg"},
+    {"name":"Napoleon","group":2,"size":35,"imageUrl": "http://mysite.merck.com:80/User Photos/Profile Pictures/NORTHAMERICA_Najarian_MThumb.jpg"},
+    {"name":"Mlle.Baptistine","group":3,"size":36,"imageUrl": "img/phones/motorola-atrix-4g.0.jpg"},
+    {"name":"Mme.Magloire","group":4,"size":37,"imageUrl": "img/phones/dell-streak-7.0.jpg"},
+    {"name":"CountessdeLo","group":50,"size":38,"imageUrl": "img/phones/samsung-gem.0.jpg"},
+    {"name":"Geborand","group":1,"size":34,"imageUrl": "img/phones/profpic1.jpg"},
+    {"name":"Champtercier","group":2,"size":35, "imageUrl": "img/phones/nexus-s.0.jpg"},
+    {"name":"Cravatte","group":3,"size":36,"imageUrl": "img/phones/lg-axis.0.jpg"},
+    {"name":"Count","group":4,"size":38,"imageUrl": "img/phones/samsung-galaxy-tab.0.jpg"},
+    {"name":"OldMan","group":5,"size":32,"imageUrl": "http://mysite.merck.com:80/User Photos/Profile Pictures/NORTHAMERICA_Najarian_MThumb.jpg"}
+    ],
+  "links":[
+    {"source":1,"target":0,"value":1,"distance": 40},
+    {"source":2,"target":0,"value":8,"distance": 30},
+    {"source":3,"target":0,"value":2,"distance": 20},
+    {"source":3,"target":2,"value":6,"distance": 10},
+    {"source":4,"target":0,"value":1,"distance": 50},
+    {"source":5,"target":0,"value":1,"distance": 40},
+    {"source":6,"target":0,"value":1,"distance": 20},
+    {"source":7,"target":0,"value":1,"distance": 30},
+    {"source":8,"target":0,"value":2,"distance": 10},
+    {"source":9,"target":0,"value":1,"distance": 40}
+    ]
+}
